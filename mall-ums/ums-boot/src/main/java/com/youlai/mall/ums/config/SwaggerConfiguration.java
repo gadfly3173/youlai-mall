@@ -19,9 +19,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @Author haoxr
+ * @author <a href="mailto:xianrui0365@163.com">xianrui</a>
  * @Date 2021-02-25 15:36
- * @Version 1.0.0
  */
 @Configuration
 @EnableSwagger2WebMvc

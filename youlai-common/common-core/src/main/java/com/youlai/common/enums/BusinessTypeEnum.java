@@ -4,7 +4,7 @@ import lombok.Getter;
 import lombok.Setter;
 
 /**
- * @author haoxr
+ * @author <a href="mailto:xianrui0365@163.com">xianrui</a>
  * @date 2021-02-17
  */
 public enum BusinessTypeEnum {

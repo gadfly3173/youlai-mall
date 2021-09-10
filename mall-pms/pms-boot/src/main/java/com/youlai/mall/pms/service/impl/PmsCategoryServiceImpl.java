@@ -19,7 +19,7 @@ import java.util.Optional;
 /**
  * 商品分类
  *
- * @author haoxr
+ * @author <a href="mailto:xianrui0365@163.com">xianrui</a>
  */
 @Service
 public class PmsCategoryServiceImpl extends ServiceImpl<PmsCategoryMapper, PmsCategory> implements IPmsCategoryService {

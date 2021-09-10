@@ -17,9 +17,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @Author haoxr
+ * @author <a href="mailto:xianrui0365@163.com">xianrui</a>
  * @Date 2021-02-25 15:36
- * @Version 1.0.0
  */
 @Configuration
 @EnableSwagger2WebMvc
@@ -51,7 +50,7 @@ public class SwaggerConfiguration {
         List<SecurityContext> securityContexts=Lists.newArrayList(securityContext);
         return new Docket(DocumentationType.SWAGGER_2)
                 .select()
-                .apis(RequestHandlerSelectors.basePackage("com.youlai.auth.controller"))
+                .apis(RequestHandlerSelectors.basePackage("com.**.controller"))
                 .paths(PathSelectors.any())
                 .build()
                 .securityContexts(securityContexts)

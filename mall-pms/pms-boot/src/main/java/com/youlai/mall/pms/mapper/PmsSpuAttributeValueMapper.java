@@ -5,7 +5,7 @@ import com.youlai.mall.pms.pojo.entity.PmsSpuAttributeValue;
 import org.apache.ibatis.annotations.Mapper;
 
 /**
- * @author haoxr
+ * @author <a href="mailto:xianrui0365@163.com">xianrui</a>
  * @date 2020-11-06
  */
 @Mapper

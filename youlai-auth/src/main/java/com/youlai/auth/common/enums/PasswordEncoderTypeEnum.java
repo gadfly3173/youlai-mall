@@ -3,7 +3,7 @@ package com.youlai.auth.common.enums;
 import lombok.Getter;
 
 /**
- * @author haoxr
+ * @author <a href="mailto:xianrui0365@163.com">xianrui</a>
  * @description TODO
  * @createTime 2021/6/5 17:57
  */

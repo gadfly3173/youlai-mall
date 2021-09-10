@@ -7,7 +7,7 @@ import com.youlai.mall.pms.service.IPmsSpuAttributeValueService;
 import org.springframework.stereotype.Service;
 
 /**
- * @author haoxr
+ * @author <a href="mailto:xianrui0365@163.com">xianrui</a>
  * @date 2020-12-12
  */
 @Service

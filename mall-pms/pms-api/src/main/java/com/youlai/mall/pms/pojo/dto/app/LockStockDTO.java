@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 
 /**
  * @description 锁定库存
- * @author haoxr
+ * @author <a href="mailto:xianrui0365@163.com">xianrui</a>
  * @createTime 2021-03-07 15:14
  */
 @Data

@@ -32,9 +32,16 @@
             <artifactId>feign-core</artifactId>
         </dependency>
 
+        <!-- feign http客户端之httpclient -->
         <dependency>
             <groupId>io.github.openfeign</groupId>
             <artifactId>feign-httpclient</artifactId>
+        </dependency>
+
+        <!-- feign http客户端之okhttp -->
+        <dependency>
+            <groupId>io.github.openfeign</groupId>
+            <artifactId>feign-okhttp</artifactId>
         </dependency>
 
         <dependency>

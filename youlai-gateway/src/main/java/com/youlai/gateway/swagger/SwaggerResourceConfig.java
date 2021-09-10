@@ -1,6 +1,6 @@
 package com.youlai.gateway.swagger;
 
-import lombok.AllArgsConstructor;
+import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.cloud.gateway.config.GatewayProperties;
 import org.springframework.cloud.gateway.route.RouteLocator;
@@ -14,16 +14,15 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @Author haoxr
+ * @author <a href="mailto:xianrui0365@163.com">xianrui</a>
  * @Date 2021-02-25 16:21
- * @Version 1.0.0
- * @ https://gitee.com/xiaoym/swagger-bootstrap-ui-demo/blob/master/knife4j-spring-cloud-gateway/service-doc/src/main/java/com/xiaominfo/swagger/service/doc/config/SwaggerResourceConfig.java
+ * @link https://gitee.com/xiaoym/swagger-bootstrap-ui-demo/blob/master/knife4j-spring-cloud-gateway/service-doc/src/main/java/com/xiaominfo/swagger/service/doc/config/SwaggerResourceConfig.java
  */
 
 @Slf4j
 @Component
 @Primary
-@AllArgsConstructor
+@RequiredArgsConstructor
 public class SwaggerResourceConfig implements SwaggerResourcesProvider {
 
     private final RouteLocator routeLocator;

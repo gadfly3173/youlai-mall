@@ -1,7 +1,7 @@
 package com.youlai.mall.pms.common.constant;
 
 /**
- * @author haoxr
+ * @author <a href="mailto:xianrui0365@163.com">xianrui</a>
  * @date 2021-02-28 20:10
  */
 public interface PmsConstants {
