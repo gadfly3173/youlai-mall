@@ -4,9 +4,9 @@ import lombok.Data;
 
 /**
  * 描述: [微信用户信息]
- * 创建时间: 2021/6/8
+ * @date 2021/6/8
  *
- * @author hxr
+ * @author haoxianrui
  */
 @Data
 public class UserInfo {

@@ -1,17 +1,13 @@
 package com.youlai.auth.domain;
 
-import com.youlai.auth.common.jwt.JwtPayloadBuilder;
-import lombok.*;
-
-import java.util.Set;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 
 /**
- * 描述: [自定义token]
- * 创建时间: 2021/6/8
- *
- * @author hxr
- * @version 1.0.0
- * @update [序号][日期YYYY-MM-DD] [更改人姓名][变更描述]
+ * @date 2021/6/8
+ * @author haoxianrui
  */
 
 @NoArgsConstructor

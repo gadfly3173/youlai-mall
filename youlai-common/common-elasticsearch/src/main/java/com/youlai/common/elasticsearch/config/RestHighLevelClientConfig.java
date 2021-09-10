@@ -14,7 +14,7 @@ import java.util.List;
 /**
  * ElasticSearch HighLevelClient
  *
- * @author hxr
+ * @author haoxianrui
  * @date 2021-03-05
  */
 @ConfigurationProperties(prefix = "spring.elasticsearch.rest")

@@ -1,7 +1,7 @@
 package com.youlai.mall.oms.constant;
 
 /**
- * @author hxr
+ * @author haoxianrui
  * @date 2021-03-16
  */
 public interface OmsConstants {
